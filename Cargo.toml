@@ -6,6 +6,7 @@ edition = "2018"
 readme = "./Readme.md"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/burtonageo/shader_conductor_rs"
+description = "Bindings to the shader conductor library"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
