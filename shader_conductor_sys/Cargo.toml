@@ -1,0 +1,13 @@
+[package]
+name = "shader_conductor_sys"
+version = "0.0.0"
+authors = ["George Burton <burtonageo@gmail.com>"]
+edition = "2018"
+description = "Low level bindings to the shader conductor library"
+readme = "./Readme.md"
+license = "mit"
+repository = "https://github.com/burtonageo/shader_conductor_rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
